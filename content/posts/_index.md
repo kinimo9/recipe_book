@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: recipes
+    name: przepisy
     weight: 5
-title: Recipes
+title: Przepisy
 ---

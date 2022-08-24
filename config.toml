@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://naszeprzepisy.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Przepisy'
 theme = 'hugo-book'
