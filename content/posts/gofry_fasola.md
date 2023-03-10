@@ -1,5 +1,5 @@
 +++
-title = "Gofry bez jajek"
+title = "Gofry fasolowe"
 description = ""
 tags = [
     "vegan"
@@ -11,14 +11,16 @@ categories = [
 menu = "main"
 +++
 
-
 ## Składniki
-* 2 szklanki mleka migdałowego
+* 1.5 szklanki mleka migdałowego
+* puszka fasoli pinto
+* 2 łyżki oleju
+* szklanka musu jabłkowego
 * szklanka mąki pszennej pełnoziarnistej
 * szklanka mąki pszennej 
 * 2 łyżeczki proszku do pieczenia
 * szczypta soli
-* 2 łyżki oleju
+
 
 ## Instrukcja
 1. Wymieszaj suche składniki.
