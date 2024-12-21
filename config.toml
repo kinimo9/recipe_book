@@ -1,4 +1,4 @@
-baseURL = 'http://naszeprzepisy.netlify.app/'
+baseURL = 'https://recipes.m4lek.com/'
 languageCode = 'en-us'
 title = 'Przepisy'
 theme = 'hugo-book'
